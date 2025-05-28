@@ -1,10 +1,10 @@
 {
   "name": "مستر قصي",
   "version": "1.0.0",
-  "description": "hey this is Money Heist MD whatsapp bot",
+  "description": "hey this is مستر قصي  whatsapp bot",
   "main": "config.js",
   "scripts": {
-          "start": "pm2 start config.js --deep-monitoring --attach --name MoneyHeistMD",
+          "start": "pm2 start config.js --deep-monitoring --attach --name مستر قصي",
     "stop": "pm2 stop MoneyHeistMD",
     "restart": "pm2 restart MoneyHeistMD"
   },
